@@ -1,0 +1,28 @@
+{
+	"Token": "x45",
+	"RulesChannel": 1,
+	"ReactMSGID": 1,
+	"bot_user_id": 1,
+	"unVerifiedRole": "Unverified",
+	"VerifiedRole": "Verified",
+	"guild_id": 1,
+	"tryout_channel": 1,
+	"InfoChannel": 1,
+	"applyChannel": 1,
+	"welcomeChannel": 1,
+	"ApplicationCategory": 1,
+	"supportChannel": 1,
+	"botCommands": 1,
+	"botCommandsKeep": 5,
+	"AdminRoles": ["Founder", "Admin"],
+	"Docs_ID": "",
+	"reactionGetChannel": 1,
+	"reactionData": {
+		"Roles": ["Announcements"]
+
+	},
+	"placeholder": ""
+}
+
+
+
